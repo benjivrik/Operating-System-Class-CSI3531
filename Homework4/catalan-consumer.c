@@ -6,7 +6,6 @@
  * 
  * The consumer
  * 
- * University of Ottawa 
  * 
  * How to run from the command line ?
  * 
