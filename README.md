@@ -13,7 +13,7 @@ I am only posting the codes I submitted.
 
 Here is the feedback I received for each of homework :
 
-Homework 1 ( Process ): 82/100 
+Homework 1 ( Processes ): 82/100 
 
 Homework 2 ( Threading with Java ): 100/100 
 
