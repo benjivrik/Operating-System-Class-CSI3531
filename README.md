@@ -6,7 +6,8 @@ These are the solutions of the homework 2, 3 and 4.
 
 # The theoritical answers are not given in this repository and will not be given to you. 
 
-I will not post the questions as well. Simply because they belong to the University of Ottawa. 
+I will not post the questions as well. 
+Simply because they belong to the University of Ottawa. 
 I am only posting the codes I submitted. 
 
 
