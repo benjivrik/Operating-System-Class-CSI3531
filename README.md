@@ -1,9 +1,36 @@
 # Operating System Class
+
 CSI3531 : Système d'exploitation | CSI3131 : Operating System | University of Ottawa  
 
 These are the solutions of the homework 2, 3 and 4. 
 
-The theoritical questions are not given in this repository
+# The theoritical answers are not given in this repository and will not be given to you. 
+
+I will not post the questions as well. Simply because they belong to the University of Ottawa. 
+I am only posting the answers I submitted. 
+
+
+Here is the feedback I received for each of thes homeworks  :
+
+Homework 1 : 82/100 | Homework 2 : 100/100 | Homework 3 : 100/100 | Homework 4 : 100/100
+
+# Beware of Copy Pasting these codes  :D. 
+
+I am posting the code I submitted because It was a great experience to follow this class
+during the term. 
+
+And it is was a great experience to learn the new concepts of processes, threadings, mutexes or page replacements algorithm.
+
+The solutions are pretty similar. 
+
+# Make your own code, find your own mistake, customize your code and learn!
+
+Use only this repository as reference. 
+
+
+
+
+
 
 
 
