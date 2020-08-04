@@ -1,13 +1,12 @@
 /**
  * 
  * Author : Benjamn Kataliko Viranga
- * ID : 8842942
  * 
- * Class : CSI3531 - Summer 2020 - Devoir 3
+ * 
+ * Class : CSI3531 - Devoir 3
  * 
  * The Sleeping Teaching Assistant
  * 
- * University of Ottawa 
  * 
  * How to run from the command line ?
  * 
