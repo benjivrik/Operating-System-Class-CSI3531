@@ -23,7 +23,7 @@ And it is was a great experience to learn the new concepts of processes, threadi
 
 The solutions are pretty similar. 
 
-# Make your own code, find your own mistake, customize your code and learn!
+# Make your own code, find your own mistakes, customize your code and learn!
 
 Use only this repository as reference. 
 
