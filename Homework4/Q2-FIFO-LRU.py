@@ -1,7 +1,6 @@
 #  Author : Benjamn Kataliko Viranga
-#  ID : 8842942
-#  
-#  Class : CSI3531 - Summer 2020 - Devoir 4
+#
+#  Class : CSI3531 - Devoir 4
 #  
 #  FIFO algorithm and LRU algortihm
 
