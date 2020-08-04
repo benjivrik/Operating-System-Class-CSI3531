@@ -10,7 +10,7 @@ I will not post the questions as well. Simply because they belong to the Univers
 I am only posting the codes I submitted. 
 
 
-Here is the feedback I received for each of thes homeworks  :
+Here is the feedback I received for each of homework :
 
 Homework 1 : 82/100 | Homework 2 : 100/100 | Homework 3 : 100/100 | Homework 4 : 100/100
 
