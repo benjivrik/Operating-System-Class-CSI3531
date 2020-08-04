@@ -12,14 +12,14 @@ I am only posting the codes I submitted.
 
 Here is the feedback I received for each of homework :
 
-Homework 1 : 82/100 | Homework 2 : 100/100 | Homework 3 : 100/100 | Homework 4 : 100/100
+Homework 1 ( Process ): 82/100 | Homework 2 ( Threading with Java ): 100/100 | Homework 3 ( The Sleeping Teaching Assistant ): 100/100 | Homework 4 ( Shared Memory between program in c - Python implementation of page replacement algorithms LRU and FIFO ): 100/100
 
 # Beware of Copy Pasting these codes  :D. 
 
 I am posting the code I submitted because It was a great experience to follow this class
 during the term. 
 
-And it is was a great experience to learn the new concepts of processes, threadings, mutexes or page replacements algorithm.
+And it is was a great experience to learn the new concepts of processes, threadings, mutexes or page replacement algorithms.
 
 The solutions are pretty similar. 
 
