@@ -2,7 +2,7 @@
 Fichier: cpr.c
 
 Nom:  BENJAMIN KATALIKO VIRANGA
-Numero d'etudiant: 8842942
+Numero d'etudiant: x
 
 Description: Ce programme contient le code pour la creation
              d'un processus enfant et y attacher un tuyau.
@@ -14,7 +14,7 @@ Explication du processus zombie
 
 	(s.v.p. completez cette partie);
 
-	En exécutant ps -u bkata047 durant le délai sleep(10) 
+	En exécutant ps -u ~ durant le délai sleep(10) 
 	après la termination du processus, 
 	celui reste affiché parmi les ressources disponibles
 	(processus actif) alors qu'il est déjà fini.
