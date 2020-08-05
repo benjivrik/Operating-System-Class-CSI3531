@@ -31,7 +31,7 @@ The solutions are pretty similar.
 
 # Make your own code, find your own mistakes, customize your code and learn!
 
-Use only this repository as reference. 
+Use this repository only as a reference. 
 
 
 
